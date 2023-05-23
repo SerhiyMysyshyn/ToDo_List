@@ -8,7 +8,16 @@ Main development stages:
 <li>Connecting firebase database to store records</li>
 <li>Writing tests for the application</li>
 
+<br>
+
 Angular Todo uses only open source projects:
 <li>Angular CLI - 15.1.2</li>
 <li>Bootstap - 5.2.3</li>
 <li>Bootstrap Icons - 1.10.3</li>
+
+<br>
+
+Authors:
+1) Serhiy Mysyshyn
+2) Pavlyshyn Ivan
+3) Two-year-old Denis
