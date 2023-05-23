@@ -20,4 +20,4 @@ Angular Todo uses only open source projects:
 Authors:
 1) Serhiy Mysyshyn
 2) Pavlyshyn Ivan
-3) Two-year-old Denis
+3) Dvolitko Denis
